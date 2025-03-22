@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ductien888 - Kiến Thức Kỹ Thuật Điện</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        header {
+            background-color: #004d99;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        main {
+            padding: 20px;
+        }
+        h1, h2 {
+            color: #004d99;
+        }
+        ul {
+            list-style-type: square;
+            margin-left: 20px;
+        }
+        footer {
+            background-color: #004d99;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Ductien888 - Kiến Thức Kỹ Thuật Điện</h1>
+        <p>Chia sẻ kiến thức và kinh nghiệm học tập hệ thống điện</p>
+    </header>
+    <main>
+        <h2>📘 Kiến thức chuyên ngành:</h2>
+        <ul>
+            <li>Lý thuyết mạch và phân tích mạch điện</li>
+            <li>Bảo vệ rơ-le và SCADA trong hệ thống điện</li>
+            <li>Thiết kế, tính toán lưới điện</li>
+            <li>Kinh nghiệm thực tế và ứng dụng công nghệ</li>
+        </ul>
+        <h2>💡 Học tập và rèn luyện:</h2>
+        <ul>
+            <li>Lập kế hoạch học tập hiệu quả</li>
+            <li>Sử dụng phần mềm AutoCAD, MATLAB</li>
+            <li>Phát triển kỹ năng lập trình cho kỹ thuật điện</li>
+        </ul>
+    </main>
+    <footer>
+        <p>🌐 Kết nối với tôi tại GitHub: ductien888</p>
+    </footer>
+</body>
+</html>
